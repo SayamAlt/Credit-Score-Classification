@@ -1,0 +1,4 @@
+.catboost_info
+./test.csv
+./train.csv
+./Credit Score Classification.ipynb
